@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Projeto Web-Lh Pets versao 1.props" />
+</Project>
